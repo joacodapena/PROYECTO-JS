@@ -1,3 +1,5 @@
+// SCRIPT DE LA ENTREGA 1 - LO DEJO COMO REFERENCIA
+
 // 1. DECLARAR VARIABLES Y CONSTANTES
 const MAX_PRODUCTOS = 5;
 let productos = []; // Array vacío para almacenar los productos
