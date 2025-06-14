@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "nombre": "Play Station 5",
+    "precio": 30000,
+    "imagen": "assets/play5.webp"
+  },
+  {
+    "id": 2,
+    "nombre": "Monitor 4K",
+    "precio": 5500,
+    "imagen": "assets/monitor5.webp"
+
+  },
+  {
+    "id": 3,
+    "nombre": "Auriculares inalámbricos",
+    "precio": 10000,
+    "imagen": "assets/auris5.jpg"
+
+  },
+  {
+    "id": 4,
+    "nombre": "Joystick Dualshock 5",
+    "precio": 1500,
+    "imagen": "assets/joystick4.jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "GTA 6",
+    "precio": 8500,
+    "imagen": "assets/gta6.avif"
+  },
+  {
+    "id": 6,
+    "nombre": "Cable HDMI",
+    "precio": 20,
+    "imagen": "assets/hdmi.webp"
+  }
+]
